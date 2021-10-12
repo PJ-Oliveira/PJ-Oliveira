@@ -12,12 +12,12 @@
 
 ### My stacks:
 <div>
-<img align="center" alt="Paulo-Spring" height="35" width="48" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-<img align="center" alt="Paulo-Cucumber" height="35" width="48" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-<img align="center" alt="Paulo-Java" height="35" width="48" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
- <img align="center" alt="Paulo-IntelliJ" height="35" width="48" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
-<img align="center" alt="Paulo-MySql" height="35" width="48" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="Paulo-PostGreSql" height="35" width="48" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
+<img align="center" alt="Paulo-Spring" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img align="center" alt="Paulo-Cucumber" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
+<img align="center" alt="Paulo-Java" height="45" width="48" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <img align="center" alt="Paulo-IntelliJ" height="95" width="95" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+<img align="center" alt="Paulo-MySql" height="65" width="75" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="Paulo-PostGreSql" height="45" width="55" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
 </div>
 
 ### *Connect with me on LinkedIn:*
