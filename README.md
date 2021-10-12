@@ -1,10 +1,14 @@
 
 
  ### Hi there, I'm Paulo!  👋 
+ 
+ <div style="display: inline_block"><br>
+<img align="right" alt="Cat-Buddha" height="130" width="130" <img src="https://media3.giphy.com/media/8mvV5eUXkM18iCm5Eg/giphy.gif?cid=790b76116aebee855683928336857d69c9b04caebad8aaec&rid=giphy.gif&ct=g" />
+</div>
 
 - 💟 I have PhD degree and it was through logic that I learned to love programming. 💟
 - ☸📿🌱 I'm always learning two things: programming 💻  and Buddhism 
-- 💻📌 I'm currently working on an Order Project at Compasso Uol 
+- 💻📌 I'm currently working on an Order Project at Compasso Uol
 
 ### My stacks:
 <div>
@@ -18,6 +22,9 @@
 
 ### *Connect with me on LinkedIn:*
 <a href="https://www.linkedin.com/in/paulo-j%C3%BAnio-de-oliveira-36a052a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+
 
 
 <!---
