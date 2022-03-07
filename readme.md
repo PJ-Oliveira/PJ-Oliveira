@@ -19,6 +19,7 @@
  <img align="center" alt="Paulo-IntelliJ" height="95" width="95" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
 <img align="center" alt="Paulo-MySql" height="65" width="75" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alt="Paulo-PostGreSql" height="45" width="55" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
+<img align="center" alt="Paulo-MongoDB" height="45" width="55" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
 
 ### *Connect with me on LinkedIn:*
