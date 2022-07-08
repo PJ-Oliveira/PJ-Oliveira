@@ -8,7 +8,7 @@
 
 - 💟 I have PhD degree and it was through logic that I learned to love programming. 💟
 - ☸📿🌱 I'm always learning two things: programming 💻  and Buddhism 
-- 💻📌 I'm currently working on an Order Project at Compasso Uol
+- 💻📌 I'm currently working on an Integration Apis Project at Compasso Uol
 
 ### My stacks:
 <div>
