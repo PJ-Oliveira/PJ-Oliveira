@@ -10,16 +10,22 @@ Software Developer with a keen interest in a variety of programming languages, i
 These languages form the foundation of my work alongside stacks, such as MuleSoft, Mule 3, Mule 4, and Spring Boot. Proficient in building APIs (using Mule and Spring Boot) to ensure the performance, security, and availability of communication between the backend and frontend.
 
 ### My stacks:
-<div>
- <img align="center" alt="Paulo-Mulesoft" height="55" width="68" <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-ar21.svg" />
- <img align="center" alt="Paulo-IntelliJ" height="90" width="95" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
- <img align="center" alt="Paulo-Spring" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
- <img align="center" alt="Paulo-Java" height="45" width="48" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="center" alt="Paulo-Cucumber" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-<img align="center" alt="Paulo-MySql" height="65" width="75" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="Paulo-PostGreSql" height="45" width="55" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
-<img align="center" alt="Paulo-MongoDB" height="45" width="55" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-</div>
+- Mulesoft
+- SpringBoot
+- Cloudhub
+- Java
+- Dataweave
+- Python
+- Maven
+- Json
+- SOAP
+- XML
+- APIs
+- SQL
+- Git
+- CI/CD Gitlab
+- Mule 3
+- Mule 4
 
 ### *Connect with me on LinkedIn:*
 <a href="https://www.linkedin.com/in/paulo-d-36a052a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
