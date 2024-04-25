@@ -28,7 +28,7 @@ These languages form the foundation of my work alongside stacks, such as MuleSof
 - Mule 4
 
 ### *Connect with me on LinkedIn:*
-<a href="https://www.linkedin.com/in/paulo-d-36a052a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-oliveira-mulesoft-spring-dataweave-java/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
