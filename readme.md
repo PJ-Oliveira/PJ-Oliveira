@@ -6,15 +6,13 @@
 <img align="right" alt="Cat-Buddha" height="130" width="130" <img src="https://media3.giphy.com/media/8mvV5eUXkM18iCm5Eg/giphy.gif?cid=790b76116aebee855683928336857d69c9b04caebad8aaec&rid=giphy.gif&ct=g" />
 </div>
 
-Software Developer with a keen interest in a variety of programming languages, including Dataweave, Java, and Python. 
-These languages form the foundation of my work alongside stacks, such as MuleSoft, Mule 3, Mule 4, and Spring Boot. Proficient in building APIs (using Mule and Spring Boot) to ensure the performance, security, and availability of communication between the backend and frontend.
+Ph.D., Software Engineer with 7+ years of experience, proficient in designing efficient and scalable APIs using Java, Dataweave, Python, Haskell, Spring Boot, Mulesoft, SQL, and NoSQL.
 
 ### My stacks:
-- Mulesoft
 - SpringBoot
-- Cloudhub
 - Java
-- Dataweave
+- AWS
+- GCP
 - Python
 - Maven
 - Json
