@@ -6,7 +6,7 @@
 <img align="right" alt="Cat-Buddha" height="130" width="130" <img src="https://media3.giphy.com/media/8mvV5eUXkM18iCm5Eg/giphy.gif?cid=790b76116aebee855683928336857d69c9b04caebad8aaec&rid=giphy.gif&ct=g" />
 </div>
 
-Ph.D., Software Engineer with 7+ years of experience, proficient in designing efficient and scalable APIs using Java, Dataweave, Python, Haskell, Spring Boot, Mulesoft, SQL, and NoSQL.
+Ph.D., Software Engineer with 7+ years of experience, proficient in designing efficient and scalable APIs using Java, Python, Haskell, Spring Boot, SQL, and NoSQL.
 
 ### My stacks:
 - SpringBoot
