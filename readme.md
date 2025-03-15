@@ -9,11 +9,13 @@
 Ph.D., Software Engineer with 7+ years of experience, proficient in designing efficient and scalable APIs using Java, Python, Haskell, Spring Boot, SQL, and NoSQL.
 
 ### My stacks:
-- SpringBoot
+- Haskell
 - Java
+- Python
+- SpringBoot
+- Azure Cloud
 - AWS
 - GCP
-- Python
 - Maven
 - Json
 - SOAP
@@ -22,8 +24,8 @@ Ph.D., Software Engineer with 7+ years of experience, proficient in designing ef
 - SQL
 - Git
 - CI/CD Gitlab
-- Mule 3
 - Mule 4
+- Mule 3
 
 ### *Connect with me on LinkedIn:*
 <a href="https://www.linkedin.com/in/paulo-oliveira-java/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
