@@ -282,9 +282,6 @@ public record MasterDeveloper(String name, String title, List<EngineeringLens> l
 ### 📬 Contact Me — Choose Your Preferred Channel
 
 <div align="center">
-
-*Open to **Senior Software Engineer** and **Master Developer** roles (Java / Spring Boot / Distributed Systems / AI-Augmented & Formal Engineering) in global teams.*
-
 <table>
   <tr>
     <td align="center" width="25%">
